@@ -14,7 +14,6 @@ public class HelloWorldController {
         LombokPOJO lombokPOJO=LombokPOJO.builder()
                 .name("张三").age(4).build();
 
-
         StringBuilder stringBuilder = new StringBuilder(); return "hello wordtgddsgdsfrwdfs-"+name+"--"+lombokPOJO.getName();
     }
 }
