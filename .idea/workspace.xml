@@ -195,6 +195,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="420" y="242" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1607413318634" />
+    <state x="290" y="115" key="CommitChangelistDialog2" timestamp="1608010812450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="290" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608010812450" />
     <state x="903" y="286" key="FileChooserDialogImpl" timestamp="1602743840271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -255,10 +259,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="16" y="191" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602662487764" />
+    <state x="282" y="256" key="Vcs.Push.Dialog.v2" timestamp="1608010821906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="282" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608010821906" />
     <state x="101" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1607999601170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="101" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607999601170" />
+    <state x="563" y="257" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1608010785856">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="257" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608010785856" />
     <state x="702" y="486" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606910783126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
